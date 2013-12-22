@@ -2,7 +2,7 @@
 
 ### Wikipedia
 
-Work in progress Firefox user styles for [Wikipedia](https://wikipedia.org) (and related Wikipedia domains). The styles strip and simplify the original look. Note that these styles are definitely not final; they need a lot more work.
+Work in progress Firefox user styles for [Wikipedia](https://wikipedia.org) (and related Wikipedia domains), based on Classypedia. The styles strip and simplify the original look. Note that these styles are definitely not final; they need a lot more work.
 
 ### Usage
 
